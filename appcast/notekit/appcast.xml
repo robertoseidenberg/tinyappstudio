@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Notekit</title>
+        <item>
+            <title>0.8.2</title>
+            <pubDate>Sat, 27 Aug 2022 20:25:51 +0200</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.8.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/robsapps/appcast-notekit/main/Notekit(0.8.2).zip" length="2629187" type="application/octet-stream" sparkle:edSignature="oWPNwdvJ5dxou1JpqPY0OqDfSh3k4Sc/BGwwg9IO7uIQEyL1CQt/qUI7ACmj58HnjcVSFp06/GmDIRPI2cqrDw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/robsapps/appcast-notekit/main/Notekit2-1.delta" sparkle:deltaFrom="1" length="14814" type="application/octet-stream" sparkle:edSignature="kITaOv5t2VANT5IDqnow7J97tJod1WtfESU5FwyoFanfLnXjkfXalHq3qqw53ZREUWF+vXEe7Yw/oCC7PnFHBg=="/>
+            </sparkle:deltas>
+            <description><![CDATA[
+                <b>Test headline</b>
+                <ul>
+                    <li>Fixed some UI glitch</li>
+                    <li>This thing was wrong</li>
+                    <li>And also that works now better</li>
+                </ul>
+            ]]></description>
+        </item>
+        <item>
+            <title>0.8.1</title>
+            <pubDate>Sat, 27 Aug 2022 20:15:15 +0200</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.8.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/robsapps/appcast-notekit/main/Notekit.zip" length="2629197" type="application/octet-stream" sparkle:edSignature="98yYXzexn+rg8VqPkPkS5lBD6feuyQoeoQCmuqiElZBCEPHPhZS6AR0/nd1x6gaG0LDczuCelO7VILIXsDh8Bw=="/>
+            <description><![CDATA[
+                <b>Test headline</b>
+                <ul>
+                    <li>Fixed some UI glitch</li>
+                    <li>This thing was wrong</li>
+                    <li>And also that works now better</li>
+                </ul>
+            ]]></description>
+        </item>
+    </channel>
+</rss>
