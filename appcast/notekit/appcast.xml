@@ -3,6 +3,21 @@
     <channel>
         <title>Notekit</title>
         <item>
+            <title>0.8.2</title>
+            <pubDate>Wed, 31 Aug 2022 23:16:54 +0200</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.8.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://tinyapp.studio/appcast/notekit/Notekit(0.8.2).zip" length="2642635" type="application/octet-stream" sparkle:edSignature="76JgbKwisH2Xz6IwADkXnO0gLznIHttHBgqQGf8wTcHAxtEjJSXoSl/RiRaKhWWI5ZFpdZ7Q4bQULw//GoXVDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://tinyapp.studio/appcast/notekit/Notekit2-1.delta" sparkle:deltaFrom="1" length="146754" type="application/octet-stream" sparkle:edSignature="q7+0VRcuetJCmtV/KquYRal6VOwWAtT0/Mx/sePMdsdhtFk02aUBOS+pYjWAuMp0P32hrdNhzWK7kdITAXVYAw=="/>
+                <b>0.8.2:</b> The "context" update
+                <ul>
+                    <li><b>[🎁]</b> Each note now has a context menu (press "i")</li>
+                </ul>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.8.1</title>
             <pubDate>Tue, 30 Aug 2022 20:41:55 +0200</pubDate>
             <sparkle:version>1</sparkle:version>
